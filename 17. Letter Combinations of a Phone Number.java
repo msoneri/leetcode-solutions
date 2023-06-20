@@ -2,8 +2,6 @@
 // n: number count with 3 letters
 // m: number count with 4 letters
 
-// char and string arrays are concatable
-
 import java.util.HashMap;
 import java.util.ArrayList;
 import java.util.List;
